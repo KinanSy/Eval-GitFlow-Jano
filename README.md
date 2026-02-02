@@ -1,6 +1,6 @@
 # DEVO - Evaluation pratique 2025 - Gitflow
 
-## Enoncé
+## Enoncée
 
 Lors de cette épreuve, nous allons valider les compétences suivantes:
 
